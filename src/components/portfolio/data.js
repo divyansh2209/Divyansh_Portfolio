@@ -1,7 +1,6 @@
 import mapty from "../../assets/mapty.png";
 import simon from "../../assets/simon.png"
-import jibber from "../../assets/jibberjobber.png"
-import task from "../../assets/task.png"
+import task from "../../assets/Task.png"
 import ecommerce from "../../assets/E-commerce.png"
 
 const data = [
