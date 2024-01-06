@@ -36,12 +36,6 @@ const ServiceCard = ({ index, title, icon }) => (
 
 const About = () => {
 
-  // const data = [
-  //   { id: 1, icon: <ImDisplay />, title: 'FRONTEND DEVELOPER' },
-  //   { id: 2, icon: <BsStack />, title: '  MERN DEVELOPER' },
-  //   { id: 3, icon: <ImBooks />, title: ' 15+ COMPLETED PROJECTS' },
-  // ]
-
   return (
     <>
       <section id="about">

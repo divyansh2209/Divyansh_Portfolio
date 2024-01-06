@@ -58,9 +58,9 @@
 
 @media screen and (max-width:600px){
     .about__container{
-        grid-auto-columns: 1fr; 
-        grid-template-columns: 1fr; 
-        grid-template-rows: 1fr 1fr; 
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
     }
     .about__left{
         margin: 1rem;
